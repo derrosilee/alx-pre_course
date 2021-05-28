@@ -1,0 +1,3 @@
+## This is a basic initialization of my Git repository
+* More updates uploading ......
+
